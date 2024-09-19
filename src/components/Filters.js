@@ -59,10 +59,11 @@ const Filters = () => {
           checked={byStock}
         />
       </span>
+     
       <span>
         <Form.Check
           inline
-          label="Fast Delivery"
+          label="Fast Delivery 456"
           name="group1"
           type="checkbox"
           id={`inline-4`}
